@@ -14,9 +14,9 @@
 <div align="center">
   <h2>Project Status</h2>
   <img src="https://www.codefactor.io/repository/github/Shall0e/VIGILANT/badge/main" alt="Grade">
-  <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/total?style=plastic&logo=appveyor" alt="Downloads">
-  <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/latest/total?style=plastic&logo=appveyor" alt="Latest Downloads">
-  <img src="https://img.shields.io/github/commit-activity/m/Shall0e/VIGILANT?style=plastic&logo=appveyor" alt="Commits Per Month">
-  <img src="https://img.shields.io/github/last-commit/Shall0e/VIGILANT?style=plastic&logo=appveyor" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/Shall0e/VIGILANT?style=plastic&logo=appveyor" alt="License">
+  <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/total?style=plastic" alt="Downloads">
+  <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/latest/total?style=plastic" alt="Latest Downloads">
+  <img src="https://img.shields.io/github/commit-activity/m/Shall0e/VIGILANT?style=plastic" alt="Commits Per Month">
+  <img src="https://img.shields.io/github/last-commit/Shall0e/VIGILANT?style=plastic" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/Shall0e/VIGILANT?style=plastic" alt="License">
 </div>
