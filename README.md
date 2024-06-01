@@ -14,7 +14,7 @@
 <div align="center">
   <h2>Project Status</h2>
   <img src="https://www.codefactor.io/repository/github/Shall0e/VIGILANT/badge/main">
-  <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/total?style=for-the-badge">
+  <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/total?style=flat">
   <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/latest/total?style=plastic">
   <img src="https://img.shields.io/github/commit-activity/m/Shall0e/VIGILANT?style=plastic">
   <img src="https://img.shields.io/github/last-commit/Shall0e/VIGILANT?style=plastic">
