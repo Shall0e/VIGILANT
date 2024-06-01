@@ -11,5 +11,6 @@
 </div>
 
 # Getting Started
-## Make sure to use the correct sliders
+1. Make sure to turn on BETA APIs. **(Required)**
 ![image](https://github.com/Shall0e/VIGILANT/assets/100087924/96027a5e-35dc-42d3-a697-769e77373b1e)
+2. Import .MCPACK into Minecraft
