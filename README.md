@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/dek0RAu.png">
+  <p>Vigilant is a Silent Monitor Anticheat for Bedrock Edition (PC, Xbox, Playstation, Mobile)</p>
 </div>
 
 <hr>
