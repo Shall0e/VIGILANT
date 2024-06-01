@@ -14,7 +14,7 @@
 <div align="center">
   <h2>Project Status</h2>
   <img src="https://img.shields.io/github/downloads/Shall0e/VIGILANT/total?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/m/Shall0e/VIGILANT?style=for-the-badge">
+  <img src="https://img.shields.io/github/star-count/m/Shall0e/VIGILANT?style=for-the-badge">
   <img src="https://img.shields.io/github/commit-activity/m/Shall0e/VIGILANT?style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/Shall0e/VIGILANT?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Shall0e/VIGILANT?style=for-the-badge">
