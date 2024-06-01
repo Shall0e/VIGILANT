@@ -9,3 +9,7 @@
   <img src="https://img.shields.io/github/last-commit/Shall0e/VIGILANT?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Shall0e/VIGILANT?style=for-the-badge">
 </div>
+
+# Getting Started
+## Make sure to use the correct sliders
+![image](https://github.com/Shall0e/VIGILANT/assets/100087924/96027a5e-35dc-42d3-a697-769e77373b1e)
